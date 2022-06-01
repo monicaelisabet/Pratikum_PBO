@@ -2,15 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/transaksi_crud/Transaksi_CRUD.java</file>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/transaksi_crud/DAOImplement/Implement_Transaksi.java</file>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/transaksi_crud/controller/Cont_Transaksi.java</file>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/transaksi_crud/model/M_Table_Model_Transaksi.java</file>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/transaksi_crud/DAO/DAO_Transaksi.java</file>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/Transaksi/Transaksi.java</file>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/transaksi_crud/koneksi/Koneksi.java</file>
-            <file>file:/C:/Users/yunis/Downloads/TUGAS-PBO-CRUD-MVC-JAVA-NETBEANS-MYSQL-master%20(1)/src/transaksi_crud/model/Model_transaksi.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
